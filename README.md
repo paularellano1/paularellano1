@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">Hola 👋, soy Paul Arellano</h1>
-<h3 align="center">Estudiante de Ingeniería en Sistemas de Información construyendo su camino en Data Analytics</h3>
+<h3 align="center">Estudiante de Ingeniería en Sistemas de Información</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paularellano1&label=Visitas%20al%20perfil&color=182A46&style=flat" alt="Visitas al perfil de paularellano1" />
@@ -11,9 +11,8 @@
 
 ## 🧭 Sobre mí
 
-- 🎓 Estudiante de Ingeniería en Sistemas de Información, en transición hacia el análisis de datos.
+- 🎓 Estudiante de Ingeniería en Sistemas de Información.
 - 📊 Trabajo con Python, Excel, Power BI y análisis financiero aplicado a escenarios de negocio.
-- ⚙️ Mi diferencial: entiendo cómo se construyen los sistemas que generan los datos, no solo cómo analizarlos — eso me da una perspectiva distinta para diseñar pipelines y dashboards que realmente funcionan en producción.
 - 📍 Basado en Ecuador, abierto a oportunidades en Ecuador y LatAm.
 - 🚀 Actualmente construyendo mi portafolio con proyectos de análisis de datos aplicados a finanzas, ventas y retail.
 
@@ -63,6 +62,5 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paularellano1&theme=dark&hide_border=false&layout=compact" alt="Lenguajes principales" width="420" height="280"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=paularellano1&theme=dark&hide_border=false" alt="Racha de contribuciones" width="420" height="280"/>
+  <img src="https://streak-stats.demolab.com/?user=paularellano1&theme=dark&hide_border=false" alt="Racha de contribuciones" width="420" height="280"/>
 </div>
